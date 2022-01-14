@@ -1,0 +1,123 @@
+body{
+    background-color: rgb(28, 14, 44);
+}
+
+#entete {
+    border-radius: 35px;    
+    width: 5000px;
+    box-align: center;
+    background-color: rgb(52, 36, 70);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10em;
+    margin-bottom: 7em;
+    padding: 15px;
+    text-align: center;
+    box-shadow: 0 10px 30px rgba(0, 0, .1);
+}
+
+h1{
+    font-family: Merryweather;
+    font-size: 250px;
+    color: rgb(231, 210, 255);
+}
+
+#pp{
+    height: 18cm;
+    width: 18cm;
+    border-radius: 100%;
+}   
+
+h2{
+    font-family: Lato;
+    font-size: 100px;
+    color: rgb(8, 1, 17);
+    font-weight: 400;
+}
+
+#partie2 {
+    border-radius: 35px; 
+    width: 5000px;   
+    background-color: rgb(52, 36, 70);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10em;
+    margin-bottom: 7em;
+    padding: 20px;
+    text-align: center;
+    box-align: center;
+    box-shadow: 0 10px 30px rgba(0, 0, .1);
+}
+
+#texte{
+    font-family: Lato;
+    font-size: 100px;
+    color: rgb(221, 195, 255);
+    font-weight: 100;
+    text-align: center;
+    padding-left: 0px;
+}
+.portfolio{
+    display: flex;
+    width: 5000px;
+    border-radius: 35px;    
+    background-color: rgb(52, 36, 70);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10em;
+    margin-bottom: 7em;
+    padding: 20px;
+    padding-top: 5em;
+    padding-bottom: 5em;
+    justify-content: center;
+    box-align: center;
+    box-shadow: 0 10px 30px rgba(0, 0, .1);
+}
+#illu1{
+    height: 40cm;
+    width: 50cm;
+    margin-right: 6cm;
+
+}
+#illu2{
+    height: 40cm;
+    width: 50cm;
+    margin-left: 6cm
+}
+
+
+.social {
+    display: flex;
+    border-radius: 35px; 
+    width: 5000px;   
+    background-color: rgb(52, 36, 70);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10em;
+    margin-bottom: 7em;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 0 10px 30px rgba(0, 0, .1);
+    justify-content: center;
+    box-align: center;
+}
+
+.reseaux{
+    font-family: Lato;
+    font-size: 120px;
+    color: rgb(8, 1, 17);
+    font-weight: 400;
+}
+
+ul{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.rs{
+    height: 5cm;
+    width: 5cm;
+    margin-left: 4cm;
+    margin-right: 4cm;
+}
+
